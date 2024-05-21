@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dahanjosh
+- 👀 I’m a real estate developer interested in learning computer science and programming to dive deeper into tech.
+- I want to leverage coding in my job and make my job more efficient, while also staying on top of technology, a passion of mine since I was young. 
+- 🌱 I’m currently learning HTML, CSS, and Javascript trying to build up some personal projects for fun. LMK if you'd like to work on something together!
+- 📫 Reach me at dahanjosh5@gmail.com 
